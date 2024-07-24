@@ -1,0 +1,16 @@
+{
+  "name": "js-practices",
+  "version": "1.0.0",
+  "main": "pract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/server": "^4.10.5",
+    "graphql": "^16.9.0",
+    "graphql-tag": "^2.12.6"
+  }
+}
